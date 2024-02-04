@@ -1,4 +1,4 @@
-# SentimentAnalysis
+# Sentiment Analysis
 
 
 This is a Women’s Clothing E-Commerce dataset revolving around the reviews written by customers. Because this is real commercial data, it has been anonymized, and references to the company in the review text and body have been replaced with “retailer”. This dataset includes 23486 rows and 10 feature variables. Each row corresponds to a customer review, and includes the variables:
